@@ -1,4 +1,4 @@
-# Hey, I'm Giulio 👋
+# Hey, I'm Giulio
 
 I grew up in Molveno, a small mountain village in the Italian Dolomites. Now I build AI products in Los Angeles.
 
