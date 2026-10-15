@@ -14,6 +14,7 @@ I'm finishing an M.S. in Business Analytics at UCLA Anderson and working as an A
 | [TransferAI](https://github.com/giulioelmi/transfer-ai) | An AI agent that runs a hospital patient transfer end to end. It reads the chart, picks the receiving hospital, fills in that hospital's forms, calls the transfer center to answer its questions, and faxes the packet. | TypeScript, FHIR, Twilio voice |
 | [LUMINA](https://github.com/giulioelmi/LUMINA) | A Perplexity-style search engine. Answers stream in with clickable citations from the live web and your own documents, and harder questions get split into sub-questions that are researched separately. | JavaScript, MongoDB, RAG |
 | [Kalshi weather trading](https://github.com/giulioelmi/kalshi-weather-trading) | An XGBoost model that corrects the cold bias in public temperature forecasts for LA's daily high, then trades the mispriced contracts on Kalshi. The historical backtest shows about +11¢ of average edge. | Python, XGBoost, NOAA data |
+| [Surf lineup detector](https://github.com/giulioelmi/surf-lineup-detector) | A YOLO model trained on 200 images that counts surfers in a live CCTV feed. | Python, YOLO |
 
 ## At work
 
